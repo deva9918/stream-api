@@ -22,7 +22,7 @@ public class prime {
         else {
             System.out.println("it is prime");
         }
-        
+        //hello
 
         }
 }
